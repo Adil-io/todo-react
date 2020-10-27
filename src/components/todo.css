@@ -1,0 +1,21 @@
+.todo-list{
+    width: 75%;
+}
+
+.todo-card{
+    margin: 10px;
+}
+
+.todo-card span{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    background-color: #393e46;
+    color: #eeeeee;
+    padding: 10px 15px;
+    border-radius: 15px 15px 0 0;
+}
+
+.todo-card h2{
+    display: inline;
+}

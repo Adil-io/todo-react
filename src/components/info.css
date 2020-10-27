@@ -1,0 +1,28 @@
+.input-form{
+    display: flex;
+    background-color: #eeeeee;
+    padding: 20px;
+    border-radius: 0 0 10px 10px;
+}
+
+.inputDiv{
+    margin: 5px;
+}
+
+.inputDiv label{
+    display: block;
+    margin-left: 5px;
+    margin-bottom: 3px;
+}
+
+.inputDiv input[type='text']{
+    padding: 5px;
+    border-radius: 20px;
+    outline: none;
+}
+
+button[type='submit']{
+    align-self: center;
+    cursor: pointer;
+    border: none;
+}
